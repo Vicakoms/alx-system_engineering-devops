@@ -1,2 +1,2 @@
-normal first line
+#!/bin/bash
 whoami
